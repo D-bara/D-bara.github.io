@@ -5,3 +5,17 @@
 - D-bara
 - 神奈川県
 - Web開発
+
+# Skills
+- Mac, Ubuntu
+- JavaScript
+- Node.js (Express・Webpack), PHP
+- Git, PostgresSQL
+
+# Works
+- [GitHub](https://github.com/D-bara/)
+- 作った作品
+  - [予定調整くん](https://desolate-mesa-74340.herokuapp.com/)
+
+# History
+- N高等学校　在籍
