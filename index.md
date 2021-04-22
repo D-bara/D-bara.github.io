@@ -19,7 +19,7 @@
 - 作った作品
   - [予定調整くん](https://desolate-mesa-74340.herokuapp.com/)
   - ParticlesRainbow
-  <iframe src="https://openprocessing.org/sketch/1172899/embed/" width="400" height="400"></iframe>
+  <iframe src="https://openprocessing.org/sketch/1172899/embed/" width="600" height="450"></iframe>
 
 # History
 - N高等学校　在籍
