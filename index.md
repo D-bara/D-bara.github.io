@@ -11,7 +11,7 @@
 # Skills
 - Mac, Ubuntu
 - JavaScript
-- Node.js (Express・Webpack), PHP
+- Node.js (Express・Webpack)
 - Git, PostgresSQL
 
 # Works
