@@ -5,7 +5,7 @@
 
 ## Profile
 - D-bara
-- 神奈川県
+- 日本
 - Web開発
 
 # Skills
